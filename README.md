@@ -12,7 +12,7 @@ Mentor:Neela Kumar
 
 Overview of the project
 
-project:Simple calculator
+project: Simple calculator
 
 Objective
 
