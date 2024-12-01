@@ -9,3 +9,8 @@ Domain:JAVA PROGRAMMING
 Duratiom:November to December 2024
 
 Mentor:Neela Kumar
+
+Overview of the project
+project:Simple calculator
+
+ 
