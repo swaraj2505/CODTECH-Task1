@@ -1,1 +1,6 @@
-# CODTECH-Task1
+Name:SWARAJ JAMBHALE
+company:CODTECH IT SOLUTIONS
+ID:CT08DS10408
+Domain:JAVA PROGRAMMING
+DUuratiom:November to December 2024
+Mentor:Muzammil
